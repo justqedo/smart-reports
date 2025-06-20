@@ -1,0 +1,15 @@
+name: smart_reports
+description: A Smart Reports WebView Flutter App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.0.7
+
+flutter:
+  uses-material-design: true
